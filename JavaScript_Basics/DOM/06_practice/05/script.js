@@ -1,0 +1,1 @@
+let a=document.querySelector("a").setAttribute("href","https://www.instagram.com")
